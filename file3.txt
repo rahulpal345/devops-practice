@@ -1,2 +1,5 @@
 Rahul "This is 3rd file"
 branch1 "This is 2nd line"
+This is 3rd line
+echo " This is just a practice"
+echo "This is 5th Line"
